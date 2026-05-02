@@ -2,10 +2,12 @@
 
 ## Información del Estudiante
 * **Nombre:** Andrea Valentina Rivera Fernández
+* **Código:** 1152444
 * **Institución:** Universidad Francisco de Paula Santander (UFPS)
 * **Carrera:** Ingeniería de Sistemas
 * **Materia:** Arquitectura de Computadores
-* **Fecha:** Abril, 2026
+* **Unidad:** 7 - Post-Contenido 1
+* **Año:** 2026
 
 ## Objetivos
 * Implementar servicios de salida de texto mediante la interrupción `INT 21h`.
